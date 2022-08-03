@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "a6C7X6HQmRCDK5ere7RYR5GBaIhPTLO+5N/Km7Q7z8k=",
+  "Source": "UniversityRegistrar",
+  "BasePath": "_content/UniversityRegistrar",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "UniversityRegistrar/wwwroot",
+      "Source": "UniversityRegistrar",
+      "ContentRoot": "/Users/benjamingoodrow/Desktop/C#/week4/UniversityRegistrar.Solution/UniversityRegistrar/wwwroot/",
+      "BasePath": "_content/UniversityRegistrar",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
